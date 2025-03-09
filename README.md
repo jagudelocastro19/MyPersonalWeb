@@ -1,2 +1,2 @@
 # MyPersonalWeb
-Mi sitio web personal donde muestro mis habilidades, proyectos y experiencia
+My personal website where I showcase my skills, projects and experience.
